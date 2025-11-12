@@ -17,9 +17,17 @@ The diffusion process can be clearly observed in these plots.
 
 ## Installing the package
 
+This package can be pulled via pip from the test index at testpypi
+`pip install -i https://test.pypi.org/simple/ luxik-diffusion2d`
+
 ## Running this package
+
+The main functionality of the package is executed through calling `solve()` from the file `diffusion2d.py`
 
 ## Citing
 
+This exercise is made possible thanks to Ishaan Desai.
 
+Slides: https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/03_building_and_packaging/pypi_slides.md
 
+Exercise: https://github.com/Simulation-Software-Engineering/Lecture-Material/blob/main/03_building_and_packaging/pypi_exercise.md
